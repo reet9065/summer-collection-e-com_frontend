@@ -59,29 +59,58 @@ npm run dev
 
 ```
 summer.co/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   └── ProductCard.jsx
-│   ├── context/
-│   │   ├── CartContext.jsx
-│   │   └── ProductsContext.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Store.jsx
-│   │   ├── Login.jsx
-│   │   ├── Signup.jsx
-│   │   └── Cart.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── .env
-├── package.json
-└── vite.config.js
+│   .env
+│   .gitignore
+│   eslint.config.js
+│   index.html
+│   package-lock.json
+│   package.json
+│   README.md
+│   README.old.md
+│   vite.config.js
+│
+├───public
+│       vite.svg
+│
+└───src
+    │   App.css
+    │   App.jsx
+    │   index.css
+    │   main.jsx
+    │
+    ├───assets
+    │       cover.jpg
+    │       react.svg
+    │
+    ├───components
+    │       CartDrawer .jsx
+    │       CartItem.jsx
+    │       Categories.jsx
+    │       Cover.jsx
+    │       FeatureProductList.jsx
+    │       Footer.jsx
+    │       InputSearch.jsx
+    │       Navbar.jsx
+    │       Newsletter.jsx
+    │       ProductCard.jsx
+    │
+    ├───context
+    │       CartContext.jsx
+    │       ProductsContext.jsx
+    │
+    ├───hooks
+    │       useFetch.jsx
+    │       useProductTransformer.jsx
+    │
+    └───pages
+            AppOutet.jsx
+            Cart.jsx
+            Home.jsx
+            Login.jsx
+            Order.jsx
+            Product.jsx
+            Singup.jsx
+            Store.jsx
 ```
 
 
