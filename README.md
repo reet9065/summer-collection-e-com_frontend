@@ -1,17 +1,4 @@
-Got it! Here's your complete `README.md` content for your **summer.co** eCommerce website, all in **one single markdown file** with:
 
-* Title & description
-* Live demo link
-* Features and tech stack
-* Installation guide
-* Folder structure
-* How it works
-* Page list
-* How data flows
-
----
-
-````markdown
 # 🌞 summer.co - Summer Wear eCommerce Website
 
 **Live Demo:** [https://summer-collection-e-com-frontend.vercel.app/](https://summer-collection-e-com-frontend.vercel.app/)
@@ -28,7 +15,6 @@ Got it! Here's your complete `README.md` content for your **summer.co** eCommerc
 - 🌐 RapidAPI for scraping product data from Amazon
 - 🔗 Deployed on Vercel
 
----
 
 ## 📄 Pages
 
@@ -98,7 +84,6 @@ summer.co/
 └── vite.config.js
 ```
 
----
 
 ## 🔍 How It Works
 
@@ -117,14 +102,13 @@ summer.co/
 * 🛠️ **Vite**:
   Fast build and dev server support using Vite for better DX and speed.
 
----
+
 
 ## 🙌 Credits
 
-Built as an internship assignment by \[Your Name].
+Built as an internship assignment by Ritesh Kumar
 Data provided via [RapidAPI](https://rapidapi.com/).
 
----
 
 ## 📌 Note
 
